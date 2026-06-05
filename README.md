@@ -8,7 +8,7 @@ A small utility for greeting people from the command line.
 python greet.py <name>
 ```
 
-## Exmaple
+## Example
 
 ```
 $ python greet.py world
